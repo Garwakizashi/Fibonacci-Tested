@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci Tested", "Fibonacci Tested\Fibonacci Tested.vcxproj", "{F6AEFB1D-5F93-4C28-A713-D86EB8C8D2FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Unit Tests", "Unit Tests\Unit Tests.vcxproj", "{8F74AEC5-F287-43C0-8E92-433591847AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AEFB1D-5F93-4C28-A713-D86EB8C8D2FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6AEFB1D-5F93-4C28-A713-D86EB8C8D2FF}.Debug|x86.Build.0 = Debug|Win32
+		{F6AEFB1D-5F93-4C28-A713-D86EB8C8D2FF}.Release|x86.ActiveCfg = Release|Win32
+		{F6AEFB1D-5F93-4C28-A713-D86EB8C8D2FF}.Release|x86.Build.0 = Release|Win32
+		{8F74AEC5-F287-43C0-8E92-433591847AB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F74AEC5-F287-43C0-8E92-433591847AB9}.Debug|x86.Build.0 = Debug|Win32
+		{8F74AEC5-F287-43C0-8E92-433591847AB9}.Release|x86.ActiveCfg = Release|Win32
+		{8F74AEC5-F287-43C0-8E92-433591847AB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
